@@ -260,6 +260,8 @@ filetype plugin indent on
 " General Settings 基础设置
 "==========================================
 
+set nocompatible
+
 "以下配置有详细说明，一些特性不喜欢可以直接注解掉
 
 "set guifont=Monaco:h20          " 字体 && 字号
